@@ -1,0 +1,32 @@
+* {
+    margin: 1%;
+    padding: 0;
+    font-family: cursive;
+    align-items: center;
+}
+
+body {
+    background: linear-gradient(rgb(60, 133, 45), rgb(32, 80, 31));
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    font-size: 3vw;
+    color: white;
+    font-weight: 500;
+}
+
+h1 {
+    color: goldenrod;
+    margin-top: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+    width: 45vw;
+    font-size: 3vw;
+    font-weight: 600;
+    color: rgb(18, 92, 18);
+    background-color: goldenrod;
+}
